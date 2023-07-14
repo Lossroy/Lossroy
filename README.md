@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/Lossroy/Lossroy/blob/main/code.gif?raw=tru)?raw=true" width="500" height="380"/>
 <h1 align="left">Hi 👋, I'm Mesut Fırat</h1>
 <h3 align="left">Jr. Data Scientist | Computer Engineer</h3>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lossroy&label=Profile%20views&color=0e75b6&style=flat" alt="lossroy" /> </p>
 
 
 
@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lossroy&show_icons=true&locale=en" alt="lossroy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lossroy&" alt="lossroy" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lossroy&label=Profile%20views&color=0e75b6&style=flat" alt="lossroy" /> </p>
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
