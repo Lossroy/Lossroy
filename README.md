@@ -1,7 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/Lossroy/Lossroy/blob/main/code.gif?raw=tru)?raw=true" width="500" height="380"/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lossroy&label=Profile%20views&color=0e75b6&style=flat" alt="lossroy" /> </p>
 <h1 align="left">Hi 👋, I'm Mesut Fırat</h1>
 <h3 align="left">Jr. Data Scientist | Computer Engineer</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lossroy&label=Profile%20views&color=0e75b6&style=flat" alt="lossroy" /> </p>
+
 
 
 
