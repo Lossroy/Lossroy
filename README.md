@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mesut Fırat</h1>
 <h3 align="center">Jr. Data Scientist | Computer Engineer</h3>
-
+<div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lossroy&label=Profile%20views&color=0e75b6&style=flat" alt="lossroy" /> </p>
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mstfrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstfrt" height="30" width="40" /></a>
