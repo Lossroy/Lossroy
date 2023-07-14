@@ -21,6 +21,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lossroy&show_icons=true&locale=en" alt="lossroy" /></p>
 
 
-<h1 align="center">Blog posts</h1>
+<h1 align="right">Blog posts</h1>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
