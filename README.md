@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/Lossroy/Lossroy/blob/main/code.gif?raw=tru)?raw=true" width="500" height="400"/>
+<img align="right" alt="GIF" src="https://github.com/Lossroy/Lossroy/blob/main/code.gif?raw=tru)?raw=true" width="500" height="380"/>
 <h1 align="left">Hi 👋, I'm Mesut Fırat</h1>
 <h3 align="left">Jr. Data Scientist | Computer Engineer</h3>
 
